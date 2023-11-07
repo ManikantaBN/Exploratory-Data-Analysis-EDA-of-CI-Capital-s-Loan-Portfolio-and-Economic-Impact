@@ -23,5 +23,6 @@ CI Capital, a financial institution, wants to better understand its loan portfol
 
 The project involves exploring these aspects of the data to provide valuable insights and recommendations to CI Capital for informed decision-making and policy development.
 
+
 # Dataset Description
 ![image](https://github.com/ManikantaBN/Exploratory-Data-Analysis-EDA-of-CI-Capital-s-Loan-Portfolio-and-Economic-Impact/assets/141845485/a86b6a0d-253a-4c15-9762-cc3967eeef00)
